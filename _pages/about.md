@@ -30,11 +30,12 @@ I have published 1 paper about [multi-agent navigation](https://ieeexplore.ieee.
 
 # 📝 Publications 
 
-- [Centralized and Decentralized Methods for Multi-robot Safe Navigation](https://ieeexplore.ieee.org/document/9943205), Xinbei Wang, Zexuan Yan, Licheng Zhong, **MLISE 2022**
+- [Centralized and Decentralized Methods for Multi-robot Safe Navigation](https://ieeexplore.ieee.org/document/9943205), **Xinbei Wang**, Zexuan Yan, Licheng Zhong, **MLISE 2022**
 
 # 💻 Experiment Results
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+- *2024.11*, Precise Positioning and Manipulator Grasping, based on the XXX project demand.
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
@@ -45,7 +46,6 @@ I have published 1 paper about [multi-agent navigation](https://ieeexplore.ieee.
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 🎖 Honors and Awards
