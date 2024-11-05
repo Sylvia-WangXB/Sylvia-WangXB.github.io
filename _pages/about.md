@@ -33,8 +33,7 @@ I have published 1 paper about [multi-agent navigation](https://ieeexplore.ieee.
 - [Centralized and Decentralized Methods for Multi-robot Safe Navigation](https://ieeexplore.ieee.org/document/9943205), **Xinbei Wang**, Zexuan Yan, Licheng Zhong, **MLISE 2022**
 
 # 💻 Experiment Results
-- test
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><video src="http://www.w3school.com.cn/i/movie.mp4" controls="" height=400 width=600> </video></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><video src="images/test.mp4" controls="" height=400 width=600> </video></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
