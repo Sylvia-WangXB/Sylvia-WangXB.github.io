@@ -24,7 +24,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Xinbei Wang"
-  avatar           : "500x300.png"
+  avatar           : "images/android-chrome-512x512.png"
   bio              : "A beginner in research. A devotee for love."
   location         : "Chongqing, China"
   employer         :
