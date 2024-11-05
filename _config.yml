@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Sylvia - Xinbei Wang"
 description              : "We don't want to meet and love left regret. "
-url                      : "https://Sylvia-WangXB.github.io"
+url                      : https://Sylvia-WangXB.github.io
 baseurl                  : ""
 repository               : "Sylvia-WangXB/Sylvia-WangXB.github.io"
 google_scholar_stats_use_cdn : true
@@ -24,7 +24,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Xinbei Wang"
-  avatar           : "selfie.png"
+  avatar           : "500x300.png"
   bio              : "A beginner in research. A devotee for love."
   location         : "Chongqing, China"
   employer         :
