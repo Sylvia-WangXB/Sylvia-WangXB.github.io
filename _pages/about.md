@@ -44,6 +44,10 @@ I have published 1 paper about [multi-agent navigation](https://ieeexplore.ieee.
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
+# 💻 Experiment Results
+- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -52,9 +56,5 @@ I have published 1 paper about [multi-agent navigation](https://ieeexplore.ieee.
 - *2023.06 - 2024.11 (now)*, master degree candidate, major in Control Science and Engineering. Institute of Robotics and Intelligent Systems, School of Automation, Chongqing University. 
 - *2019.09 - 2023.06*, bachelor degree, major in Automation. School of Advanced Engineering, University of Science and Technology Beijing. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
+# 💬 Internships
 - No intership experience yet. Looking forward to it.
