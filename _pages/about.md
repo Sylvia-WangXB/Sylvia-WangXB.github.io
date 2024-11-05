@@ -33,7 +33,7 @@ I have published 1 paper about [multi-agent navigation](https://ieeexplore.ieee.
 - [Centralized and Decentralized Methods for Multi-robot Safe Navigation](https://ieeexplore.ieee.org/document/9943205), **Xinbei Wang**, Zexuan Yan, Licheng Zhong, **MLISE 2022**
 
 # 💻 Experiment Results
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><video src="images/test.mp4" controls=""> </video></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><video src="images/test.mp4" controls="" height=300 width=400> </video></div></div>
 <div class='paper-box-text' markdown="1">
 
 Precise Positioning and Manipulator Grasping
