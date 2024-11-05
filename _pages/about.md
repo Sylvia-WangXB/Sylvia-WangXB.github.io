@@ -25,8 +25,8 @@ I have published 1 paper about [multi-agent navigation](https://ieeexplore.ieee.
 [email](mailto:202313021059T@stu.cqu.edu.cn) / [GitHub](https://github.com/Sylvia-WangXB) / [CSDN](https://blog.csdn.net/weixin_57587147?type=lately)
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.11*: &nbsp;🎉🎉 I won the A-class academic scholarship of Chongqing University. 
+- *2022.12*: &nbsp;🎉🎉 My work about multi-agent navigation with Licheng Zhong & Zexuan Yan has been accredited by IEEE Xplore. 
 
 # 📝 Publications 
 
