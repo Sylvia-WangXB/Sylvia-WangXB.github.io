@@ -36,9 +36,9 @@ I have published 1 paper about [multi-agent navigation](https://ieeexplore.ieee.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">test demo</div><video src="images/test.mp4" controls="" height=300 width=400> </video></div></div>
 <div class='paper-box-text' markdown="1">
 
-- *2024.11*, **Precise Positioning and Manipulator Grasping**, based on the XXX project demand.
-
-    Major contributors: **Xinbei Wang**, Feilin Yu, Yinkai Zhu
+ **Precise Positioning and Manipulator Grasping**
+- Experiment time: *2024.11*
+- Major contributors: **Xinbei Wang**, Feilin Yu, Yinkai Zhu
 
 **Project Description** 
 - Intelligent unmanned system for inspection tasks in large field scenes.
