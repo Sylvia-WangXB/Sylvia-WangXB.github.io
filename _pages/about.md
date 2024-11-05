@@ -51,11 +51,11 @@ I have published 1 paper about [multi-agent navigation](https://ieeexplore.ieee.
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 🎖 Honors and Awards
-- *2024.11* **A-class Academic Scholarship**, Chongqing University. 
-- *2024.10* **Outstanding Student Cadre**, School of Automation, Chongqing University. 
-- *2024.07* **Outstanding Member of Communist Party**, School of Automation, Chongqing University. 
-- *2024.05* **Outstanding Cadre of Communist Youth League**, Chongqing University.
-- *2023.11* **A-class Academic Scholarship**, Chongqing University. 
+- *2024.11*   **A-class Academic Scholarship**, Chongqing University. 
+- *2024.10*   **Outstanding Student Cadre**, School of Automation, Chongqing University. 
+- *2024.07*   **Outstanding Member of Communist Party**, School of Automation, Chongqing University. 
+- *2024.05*   **Outstanding Cadre of Communist Youth League**, Chongqing University.
+- *2023.11*   **A-class Academic Scholarship**, Chongqing University. 
 
 # 📖 Educations
 - *2023.06 - 2024.11 (now)*, master degree candidate, major in Control Science and Engineering. Institute of Robotics and Intelligent Systems, School of Automation, Chongqing University. 
