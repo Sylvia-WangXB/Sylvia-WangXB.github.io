@@ -33,15 +33,15 @@ I have published 1 paper about [multi-agent navigation](https://ieeexplore.ieee.
 - [Centralized and Decentralized Methods for Multi-robot Safe Navigation](https://ieeexplore.ieee.org/document/9943205), **Xinbei Wang**, Zexuan Yan, Licheng Zhong, **MLISE 2022**
 
 # 💻 Experiment Results
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><video src="images/test.mp4" controls="" height=400 width=600> </video></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><video src="images/test.mp4" controls=""> </video></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+Precise Positioning and Manipulator Grasping
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Xinbei Wang**, Feilin Yu, Yinkai Zhu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**Project** 
+- Intelligent unmanned system for inspection tasks in large field scenes. The system is equipped with a robotic arm for sample data collection.
 </div>
 </div>
 
