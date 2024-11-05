@@ -36,12 +36,13 @@ I have published 1 paper about [multi-agent navigation](https://ieeexplore.ieee.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><video src="images/test.mp4" controls="" height=300 width=400> </video></div></div>
 <div class='paper-box-text' markdown="1">
 
-Precise Positioning and Manipulator Grasping
+- **Precise Positioning and Manipulator Grasping**
 
-**Xinbei Wang**, Feilin Yu, Yinkai Zhu
+Major contributors: **Xinbei Wang**, Feilin Yu, Yinkai Zhu
 
-**Project** 
-- Intelligent unmanned system for inspection tasks in large field scenes. The system is equipped with a robotic arm for sample data collection.
+**Project Description** 
+- Intelligent unmanned system for inspection tasks in large field scenes.
+- The system is equipped with a robotic arm for sample data collection.
 </div>
 </div>
 
