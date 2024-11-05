@@ -18,7 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I'm a second-year graduate student from [Institute of Robotics and Intelligent Systems](https://accu.cqu.edu.cn/kxyj/yjs/jqryznxtyjs.htm), [Chongqing University](https://www.cqu.edu.cn/). 
-My research interest includes robotics, computer vision and vision-language models.I have published 1 paper about [multi-agent navigation](https://ieeexplore.ieee.org/document/9943205) during my undergraduate years.
+My research interest includes robotics, computer vision and vision-language models.
+
+I have published 1 paper about [multi-agent navigation](https://ieeexplore.ieee.org/document/9943205) during my undergraduate years.
 
 [email](mailto:202313021059T@stu.cqu.edu.cn) / [GitHub](https://github.com/Sylvia-WangXB) / [CSDN](https://blog.csdn.net/weixin_57587147?type=lately)
 
