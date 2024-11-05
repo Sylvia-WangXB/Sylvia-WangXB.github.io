@@ -8,8 +8,6 @@
 # Site Settings
 title                    : "Sylvia - Xinbei Wang"
 description              : "We don't want to meet and love left regret. "
-url                      : https://Sylvia-WangXB.github.io
-baseurl                  : ""
 repository               : "Sylvia-WangXB/Sylvia-WangXB.github.io"
 google_scholar_stats_use_cdn : true
 
